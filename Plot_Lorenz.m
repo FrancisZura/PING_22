@@ -1,5 +1,8 @@
 % forma diferente de gráficar el problema de lorenz (EDO) 
 %
+% Adapted de : https://la.mathworks.com/help/optim/ug/fit-differential-equation-ode.html
+% Francisca Zura 
+%
 % parametros para un sistema sensible
 sigma = 10;
 beta = 8/3;
